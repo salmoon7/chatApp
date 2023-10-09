@@ -1,0 +1,18 @@
+body {
+  box-sizing: border-box;
+}
+.container {
+  margin: auto;
+  width: 500px;
+  height: 700px;
+  background-color: lightblue;
+}
+.input {
+  width: 400px;
+  border-radius: 10px;
+  border-style: none;
+  padding: 10px;
+  margin-left: 20px;
+  position: relative;
+  bottom: 0;
+}
