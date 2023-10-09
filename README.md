@@ -1,3 +1,3 @@
 # chatApp
 The chatApp is done leveraging the power of nodeJs 
-![Alt Text](url_of_your_image)
+![Alt Text](https://github.com/salmoon7/chatApp/issues/1#issue-1932123852)
